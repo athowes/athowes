@@ -2,7 +2,7 @@
 
 I'm a PhD student in statistics (or officially [modern statistics and statistical machine learning](https://statml.io/)) at Imperial supervised by [Jeff Eaton](https://www.imperial.ac.uk/people/jeffrey.eaton) (Imperial, DIDE) and [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS).
 I'm interested in applying Bayesian statistics to health and social sciences, particularly global health and biosecurity.
-To make an extremely stretched connection, just as work on global health can make the most out of available resources by considering those far away *spatially*, work on biosecurity may allow resources to go further by considering those far away *temporally*.
+To make an extremely stretched connection, work on global health makes the most out of available resources by considering those far away in space, and work on biosecurity may allow resources to go further by considering those far away in time.
 
 During my PhD I'd like to get better at writing {clear, concise, efficient, reproducible} code, so if you see anything on this profile which I could improve upon please let me know: always happy to learn!
 I'm mostly a user of `orderly` for reproducible research, {`rstan`, `R-INLA`, `TMB`} for inference, `dplyr` for data manipulation, `ggplot2` for plotting and `sf` for spatial data.
