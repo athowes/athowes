@@ -8,5 +8,4 @@ I'm a visiting student at the [University of Waterloo](https://uwaterloo.ca/stat
 * [`exp-growth`](https://github.com/athowes/exp-growth): Methods for disease-agnostic metagenomic environmental surveillance
 
 I'd like to improve at writing {clear, concise, efficient, reproducible} code, so if you see anything on this profile which I could improve upon please let me know: always happy to learn!
-I'm mostly a user of `orderly` for reproducible research, {`rstan`, `R-INLA`, `TMB`} for inference, `dplyr` for data manipulation, `ggplot2` for plotting and `sf` for spatial data.
-When I have a chance, I'd like to learn `dt` for faster data manipulation, as well as perhaps a secondary programming language (e.g. Python, Julia).
+I'm mostly a user of `orderly` for reproducible research, {`rstan`, `R-INLA`, `TMB`, `aghq`} for inference, `dplyr` for data manipulation, `ggplot2` for plotting and `sf` for spatial data.
