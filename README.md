@@ -7,5 +7,5 @@ I'm a visiting student at the [University of Waterloo](https://uwaterloo.ca/stat
 * [`elgm-inf`](https://github.com/athowes/elgm-inf): Improving approximate Bayesian inference methods for extended latent Gaussian models
 * [`exp-growth`](https://github.com/athowes/exp-growth): Time-series methods for disease-agnostic metagenomic environmental surveillance
 
-I'd like to improve at writing {clear, concise, efficient, reproducible} code, so if you see anything on this profile which I could improve upon please let me know: always happy to learn!
+I'm always looking to improve at writing {clear, concise, efficient, reproducible} code, so if have have any suggestions please let me know: always happy to learn!
 I'm mostly a user of `orderly` for reproducible research, {`rstan`, `R-INLA`, `TMB`, `aghq`} for inference, `dplyr` for data manipulation, `ggplot2` for plotting and `sf` for spatial data.
