@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a PhD student in statistics at Imperial College London supervised by [Jeff Eaton](https://www.imperial.ac.uk/people/jeffrey.eaton) (Imperial, DIDE) and [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS), interested in applying spatio-temporal Bayesian statistics to health and social sciences, particularly global health and biosecurity.
+I'm a PhD student in statistics at Imperial College London supervised by [Jeff Eaton](https://www.imperial.ac.uk/people/jeffrey.eaton) (Imperial, DIDE) and [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS), interested in applying spatio-temporal Bayesian statistics to health and social sciences.
 
 During my PhD I have mostly worked on:
 
