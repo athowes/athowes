@@ -8,4 +8,4 @@ I'm a statistics PhD student at Imperial College London supervised by [Jeff Eato
 * [`exp-growth`](https://github.com/athowes/exp-growth): Time-series methods for disease-agnostic metagenomic environmental surveillance
 
 I'm always looking to improve at writing {clear, concise, efficient, reproducible} code, so if have have any suggestions please let me know: always happy to learn!
-I'm mostly a user of `orderly` for reproducible research, {`rstan`, `R-INLA`, `TMB`, `aghq`} for inference, `dplyr` for data manipulation, `ggplot2` for plotting and `sf` for spatial data.
+I'm mostly a user of `orderly` for reproducible research, {`rstan`, `R-INLA`, `TMB`, `aghq`} for (somewhat) Bayesian inference, `dplyr` for data manipulation, `ggplot2` for plotting and `sf` for spatial data.
