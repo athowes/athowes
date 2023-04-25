@@ -1,4 +1,4 @@
-I'm a statistics PhD student at Imperial College London supervised by [Jeff Eaton](https://www.imperial.ac.uk/people/jeffrey.eaton) (Imperial, DIDE) and [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS), interested in methods and applications of Bayesian statistics in health and social sciences. I am mostly working on:
+I'm a statistics PhD student at Imperial College London supervised by [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS) and [Jeff Eaton](https://www.imperial.ac.uk/people/jeffrey.eaton) (Imperial, DIDE), interested in methods and applications of Bayesian statistics in health and social sciences. I am mostly working on:
 
 * [`areal-comparison`](https://github.com/athowes/areal-comparison): Understanding models for spatial structure in small-area estimation
 * [`multi-agyw`](https://github.com/athowes/multi-agyw): Estimating HIV risk group proportions using a multinomial spatio-temporal model
@@ -7,3 +7,5 @@ I'm a statistics PhD student at Imperial College London supervised by [Jeff Eato
 
 I'm always looking to improve at writing {clear, concise, efficient, reproducible} code, so if have have any suggestions please let me know: always happy to learn!
 I'm mostly a user of `orderly` for reproducible research, {`rstan`, `R-INLA`, `TMB`, `aghq`} for (somewhat) Bayesian inference, `dplyr` for data manipulation, `ggplot2` for plotting and `sf` for spatial data.
+
+For more information, and to read my blog, see my [website](https://athowes.github.io/).
