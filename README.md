@@ -8,5 +8,5 @@ I'm a statistics PhD student at Imperial College London supervised by [Seth Flax
 I'm always looking to improve at writing {clear, concise, efficient, reproducible} code, so if have have any suggestions please let me know: always happy to learn!
 I'm mostly a user of `orderly` for reproducible research, {`rstan`, `R-INLA`, `TMB`, `aghq`} for (somewhat) Bayesian inference, `dplyr` for data manipulation, `ggplot2` for plotting and `sf` for spatial data.
 
-You might be interested in a list of [resources](https://github.com/athowes/resources) I've found useful during my PhD.
+You may be interested in these [resources](https://github.com/athowes/resources) I've found useful.
 Or, for my blog and more information about me, see [athowes.github.io](https://athowes.github.io/).
