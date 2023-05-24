@@ -1,4 +1,4 @@
-I'm a statistics PhD student at Imperial College London supervised by [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS) and [Jeff Eaton](https://www.imperial.ac.uk/people/jeffrey.eaton) (Imperial, DIDE), interested in methods and applications of Bayesian statistics in health and social sciences. I am mostly working on:
+I'm a statistics PhD student at Imperial College London supervised by [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS) and [Jeff Eaton](https://ccdd.hsph.harvard.edu/people/jeff-eaton/) (Harvard, CCDD), interested in methods and applications of Bayesian statistics in health and social sciences. I am mostly working on:
 
 * [`areal-comparison`](https://github.com/athowes/areal-comparison): Understanding models for spatial structure in small-area estimation
 * [`multi-agyw`](https://github.com/athowes/multi-agyw): Estimating HIV risk group proportions using a multinomial spatio-temporal model
