@@ -7,8 +7,8 @@ I am mostly working on:
 * [`exp-growth`](https://github.com/athowes/exp-growth): Time-series methods for disease-agnostic metagenomic environmental surveillance
 
 I'm always looking to improve at writing clear, concise, efficient, reproducible code.
-If have have any suggestions please let me know: always happy to learn!
+If have have any suggestions, let me know!
 I mostly use [`orderly`](https://github.com/vimc/orderly) for reproducible research; [`rstan`](https://mc-stan.org/), [`R-INLA`](https://www.r-inla.org/), [`TMB`](https://kaskr.github.io/adcomp/Introduction.html), and [`aghq`](https://github.com/awstringer1/aghq) for (somewhat) Bayesian inference; [`dplyr`](https://dplyr.tidyverse.org/) for data manipulation; [`ggplot2`](https://ggplot2.tidyverse.org/) for plotting; and [`sf`](https://r-spatial.github.io/sf/) for spatial data.
 
-You may also be interested in these [resources](https://github.com/athowes/resources) I've found useful.
-For my blog and more information about me, see [athowes.github.io](https://athowes.github.io/).
+You may be interested in these [resources](https://github.com/athowes/resources) I've found useful.
+For more information, and my blog, see [athowes.github.io](https://athowes.github.io/).
