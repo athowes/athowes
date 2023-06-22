@@ -3,7 +3,7 @@ I am mostly working on:
 
 * [`areal-comparison`](https://github.com/athowes/areal-comparison): Understanding models for spatial structure in small-area estimation
 * [`multi-agyw`](https://github.com/athowes/multi-agyw): Estimating HIV risk group proportions using a multinomial spatio-temporal model
-* [`elgm-inf`](https://github.com/athowes/elgm-inf): Improving approximate Bayesian inference methods for extended latent Gaussian models
+* [`naomi-aghq`](https://github.com/athowes/naomi-aghq): Improving approximate Bayesian inference methods for extended latent Gaussian models
 * [`exp-growth`](https://github.com/athowes/exp-growth): Time-series methods for disease-agnostic metagenomic environmental surveillance
 
 I'm always looking to improve at writing clear, concise, efficient, reproducible code.
