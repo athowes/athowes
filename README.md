@@ -15,4 +15,5 @@ I mostly use [`orderly`](https://github.com/vimc/orderly) for reproducible resea
 I'm currently reading: :world_map: [Trees, maps, and theorems](https://www.principiae.be/X0100.php).
 
 You may be interested in these [resources](https://github.com/athowes/resources) I've found useful.
+
 For more information, and my blog, see [athowes.github.io](https://athowes.github.io/).
