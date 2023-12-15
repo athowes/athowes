@@ -2,11 +2,13 @@ I'm a final year statistics PhD student at Imperial, supervised by [Seth Flaxman
 I'm interested in methods and real world applications of Bayesian statistics, typically in health and social sciences.
 For example:
 
-* [`thesis`](https://github.com/athowes/thesis): My thesis, "Bayesian spatio-temporal methods for small-area estimation of HIV indicators"
-* [`beyond-borders`](https://github.com/athowes/beyond-borders): Evaluating the suitability of spatial adjacency for small-area estimation ([`arealutils`](https://github.com/athowes/arealutils))
-* [`multi-agyw`](https://github.com/athowes/multi-agyw): Estimating HIV risk group proportions using a multinomial spatio-temporal model ([`multi.utils`](https://github.com/athowes/multi.utils))
-* [`naomi-aghq`](https://github.com/athowes/naomi-aghq): Improving approximate Bayesian inference methods for extended latent Gaussian models ([`inf.utils`](https://github.com/athowes/inf.utils))
-* [`exp-growth`](https://github.com/athowes/exp-growth): Time-series methods for disease-agnostic metagenomic environmental threat detection
+| Repository | Description |
+|:-|:----|
+| [`thesis`](https://github.com/athowes/thesis) | My thesis, "Bayesian spatio-temporal methods for small-area estimation of HIV indicators" |
+| [`beyond-borders`](https://github.com/athowes/beyond-borders) |Evaluating the suitability of spatial adjacency for small-area estimation ([`arealutils`](https://github.com/athowes/arealutils))
+| [`multi-agyw`](https://github.com/athowes/multi-agyw) |Estimating HIV risk group proportions using a multinomial spatio-temporal model ([`multi.utils`](https://github.com/athowes/multi.utils))
+| [`naomi-aghq`](https://github.com/athowes/naomi-aghq) |Improving approximate Bayesian inference methods for extended latent Gaussian models ([`inf.utils`](https://github.com/athowes/inf.utils))
+| [`exp-growth`](https://github.com/athowes/exp-growth) | Time-series methods for disease-agnostic metagenomic environmental threat detection
 
 I'm always looking to improve at writing clear, concise, efficient, reproducible code.
 If have have any suggestions, let me know!
