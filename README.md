@@ -1,4 +1,4 @@
-I'm a final year statistics PhD student at Imperial, supervised by [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS) and [Jeff Eaton](https://ccdd.hsph.harvard.edu/people/jeff-eaton/) (Imperial, DIDE; Harvard, CCDD).
+I'm a statistics PhD student (awaiting defence in spring 2024) at Imperial, supervised by [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS) and [Jeff Eaton](https://ccdd.hsph.harvard.edu/people/jeff-eaton/) (Imperial, DIDE; Harvard, CCDD).
 I'm interested in methods and real world applications of Bayesian statistics, typically in health and social sciences.
 For example:
 
