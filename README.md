@@ -14,7 +14,7 @@ I'm always looking to improve at writing clear, concise, efficient, reproducible
 If have have any suggestions, let me know!
 I mostly use [`orderly`](https://github.com/vimc/orderly) for reproducible research; [`rstan`](https://mc-stan.org/), [`R-INLA`](https://www.r-inla.org/), [`TMB`](https://kaskr.github.io/adcomp/Introduction.html), and [`aghq`](https://github.com/awstringer1/aghq) for (somewhat) Bayesian inference; [`dplyr`](https://dplyr.tidyverse.org/) for data manipulation; [`ggplot2`](https://ggplot2.tidyverse.org/) for plotting; and [`sf`](https://r-spatial.github.io/sf/) for spatial data.
 
-I'm currently reading: [Trees, maps, and theorems](https://www.principiae.be/X0100.php).
+I'm currently reading: [Trees, maps, and theorems](https://www.principiae.be/X0100.php), [The Effective Manager](https://www.manager-tools.com/products/effective-manager-book-second-edition)
 
 You may be interested in these [resources](https://github.com/athowes/resources) I've found useful.
 
