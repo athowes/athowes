@@ -16,6 +16,6 @@ I mostly use [`orderly`](https://github.com/vimc/orderly) for reproducible resea
 
 I'm currently reading: [Trees, maps, and theorems](https://www.principiae.be/X0100.php), [The Effective Manager](https://www.manager-tools.com/products/effective-manager-book-second-edition)
 
-You may be interested in these [`resources`](https://github.com/athowes/resources) I've found useful, or what I'm learning about via [`tutorials`](https://github.com/athowes/tutorials)
+You may be interested in these [`resources`](https://github.com/athowes/resources) I've found useful, or what I'm learning about via [`tutorial`](https://github.com/athowes/tutorial)
 
 For more information, and my blog, see [athowes.github.io](https://athowes.github.io/).
