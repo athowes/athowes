@@ -3,7 +3,7 @@ I'm interested in methods and real world applications of Bayesian statistics, ty
 For example:
 
 | Repository | Description |
-|:-|:----|
+|:---|:----|
 | [`thesis`](https://github.com/athowes/thesis) | My thesis, "Bayesian spatio-temporal methods for small-area estimation of HIV indicators" |
 | [`beyond-borders`](https://github.com/athowes/beyond-borders) |Evaluating the suitability of spatial adjacency for small-area estimation ([`arealutils`](https://github.com/athowes/arealutils))
 | [`multi-agyw`](https://github.com/athowes/multi-agyw) |Estimating HIV risk group proportions using a multinomial spatio-temporal model ([`multi.utils`](https://github.com/athowes/multi.utils), [UNAIDS](https://hivtools.unaids.org/pse/))
