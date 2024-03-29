@@ -1,10 +1,10 @@
-I'm a statistics PhD student (defending March 2024) at Imperial, supervised by [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS) and [Jeff Eaton](https://ccdd.hsph.harvard.edu/people/jeff-eaton/) (Imperial, DIDE; Harvard, CCDD).
-I'm interested in methods and real world applications of Bayesian statistics, typically in health and social sciences.
+Hi!
+I'm Adam, a statistician interested in Bayesian methods and real world applications, typically in health and social sciences.
 For example:
 
 | Repository | Description |
 |:---|:----|
-| [`thesis`](https://github.com/athowes/thesis) | My thesis, "Bayesian spatio-temporal methods for small-area estimation of HIV indicators" |
+| [`thesis`](https://github.com/athowes/thesis) | My thesis, "Bayesian spatio-temporal methods for small-area estimation of HIV indicators", supervised by [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS) and [Jeff Eaton](https://ccdd.hsph.harvard.edu/people/jeff-eaton/) (Imperial, DIDE; Harvard, CCDD) |
 | [`beyond-borders`](https://github.com/athowes/beyond-borders) | Evaluating the suitability of spatial adjacency for small-area estimation ([`arealutils`](https://github.com/athowes/arealutils))
 | [`multi-agyw`](https://github.com/athowes/multi-agyw) | Estimating HIV risk group proportions with a multinomial spatio-temporal model ([`multi.utils`](https://github.com/athowes/multi.utils), [UNAIDS](https://hivtools.unaids.org/pse/](https://hivtools.unaids.org/shipp/)))
 | [`naomi-aghq`](https://github.com/athowes/naomi-aghq) | Improving approximate Bayesian inference methods for extended latent Gaussian models ([`inf.utils`](https://github.com/athowes/inf.utils))
