@@ -1,6 +1,5 @@
 Hi!
-I'm Adam, a statistician interested in Bayesian methods and real world applications, typically in health and social sciences.
-For example:
+I'm Adam, a Bayesian statistician interested in methods and real world applications, typically in health and social sciences e.g.:
 
 | Repository | Description |
 |:---|:----|
