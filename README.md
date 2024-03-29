@@ -1,5 +1,5 @@
 Hi!
-I'm Adam, a Bayesian statistician interested in methods and real world applications, typically in health and social sciences e.g.:
+I'm Adam, a Bayesian statistician working on global health and biosecurity, e.g.:
 
 | Repository | Description |
 |:---|:----|
