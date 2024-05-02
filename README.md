@@ -16,7 +16,7 @@ If have have any suggestions, let me know!
 I predominantly program in R, and use [`orderly`](https://github.com/vimc/orderly) for reproducible research; [`rstan`](https://mc-stan.org/), [`R-INLA`](https://www.r-inla.org/), [`TMB`](https://kaskr.github.io/adcomp/Introduction.html), and [`aghq`](https://github.com/awstringer1/aghq) for (somewhat) Bayesian inference; the [`tidyverse`](https://dplyr.tidyverse.org/) for data manipulation; [`ggplot2`](https://ggplot2.tidyverse.org/) for plotting; and [`sf`](https://r-spatial.github.io/sf/) for spatial data.
 Over time, I am looking to become multilinual by [learning Python](https://github.com/athowes/tutorial?tab=readme-ov-file#learning-python-as-an-r-user): any advice welcome.
 
-I'm currently reading: [Trees, maps, and theorems](https://www.principiae.be/X0100.php), [The Effective Manager](https://www.manager-tools.com/products/effective-manager-book-second-edition), and miscellaneous resources about technical management.
+I'm currently reading: [Trees, maps, and theorems](https://www.principiae.be/X0100.php), [The Effective Manager](https://www.manager-tools.com/products/effective-manager-book-second-edition), and miscellaneous resources about technical management, see [`reading`](https://github.com/athowes/reading).
 
 You may be interested in these [`resources`](https://github.com/athowes/resources) I've found useful, or what I'm learning about via [`tutorial`](https://github.com/athowes/tutorial).
 
