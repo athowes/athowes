@@ -4,7 +4,7 @@ I'm Adam, a Bayesian statistician working as a contractor with the [Center for F
 For an idea about my work, see:
 
 | Repository | Description |
-|:---|:----|
+|:----|:----|
 | [`thesis`](https://github.com/athowes/thesis) | My thesis, "Bayesian spatio-temporal methods for small-area estimation of HIV indicators", supervised by [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS) and [Jeff Eaton](https://ccdd.hsph.harvard.edu/people/jeff-eaton/) (Imperial, DIDE; Harvard, CCDD) |
 | [`beyond-borders`](https://github.com/athowes/beyond-borders) | Evaluating the suitability of spatial adjacency for small-area estimation ([`arealutils`](https://github.com/athowes/arealutils))
 | [`multi-agyw`](https://github.com/athowes/multi-agyw) | Estimating HIV risk group proportions with a multinomial spatio-temporal model ([`multi.utils`](https://github.com/athowes/multi.utils), [UNAIDS](https://hivtools.unaids.org/pse/](https://hivtools.unaids.org/shipp/)))
