@@ -13,7 +13,7 @@ For an idea about my work, see:
 * I'm always looking to improve at writing clear, concise, efficient, reproducible code.
 Any suggestions, let me know!
 I predominantly program in R.
-Over time, I am looking to become multilinual by [learning Python](https://github.com/athowes/tutorial?tab=readme-ov-file#learning-python-as-an-r-user) (and maybe Julia?): any advice welcome.
+Over time, I'd like to become multilinual by [learning Python](https://github.com/athowes/tutorial?tab=readme-ov-file#learning-python-as-an-r-user) (and maybe Julia?): advice welcome.
 * I'm currently reading: [Trees, maps, and theorems](https://www.principiae.be/X0100.php), [The Effective Manager](https://www.manager-tools.com/products/effective-manager-book-second-edition), and miscellaneous resources about technical management, see [`reading`](https://github.com/athowes/reading).
 * You may be interested in these [`resources`](https://github.com/athowes/resources) I've found useful, or what I'm learning about via [`tutorial`](https://github.com/athowes/tutorial).
 * For more information, and my blog, see [athowes.github.io](https://athowes.github.io/).
