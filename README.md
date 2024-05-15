@@ -1,6 +1,7 @@
 Hi!
 I'm Adam, a Bayesian statistician primarily working as a contractor at the [Center for Forecasting and Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html) at the [CDC](https://www.cdc.gov/index.htm).
-For an idea about my work, see:
+For more information, and my blog, see [athowes.github.io](https://athowes.github.io/).
+To give an idea about my work, see:
 
 | Repository | Description |
 |:-----|:----|
@@ -16,4 +17,3 @@ I predominantly program in R.
 Over time, I'd like to become multilinual by [learning Python](https://github.com/athowes/tutorial?tab=readme-ov-file#learning-python-as-an-r-user) (and maybe Julia?): advice welcome.
 * I'm currently reading: [Trees, maps, and theorems](https://www.principiae.be/X0100.php), [The Effective Manager](https://www.manager-tools.com/products/effective-manager-book-second-edition), and miscellaneous resources about technical management, see [`reading`](https://github.com/athowes/reading).
 * You may be interested in these [`resources`](https://github.com/athowes/resources) I've found useful, or what I'm learning about via [`tutorial`](https://github.com/athowes/tutorial).
-* For more information, and my blog, see [athowes.github.io](https://athowes.github.io/).
