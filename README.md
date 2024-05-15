@@ -11,7 +11,7 @@ For an idea about my work, see:
 | [`exp-growth`](https://github.com/athowes/exp-growth) | Time-series methods for disease-agnostic metagenomic environmental threat detection
 
 * I'm always looking to improve at writing clear, concise, efficient, reproducible code.
-If have have any suggestions, let me know!
+Any suggestions, let me know!
 I predominantly program in R.
 Over time, I am looking to become multilinual by [learning Python](https://github.com/athowes/tutorial?tab=readme-ov-file#learning-python-as-an-r-user) (and maybe Julia?): any advice welcome.
 * I'm currently reading: [Trees, maps, and theorems](https://www.principiae.be/X0100.php), [The Effective Manager](https://www.manager-tools.com/products/effective-manager-book-second-edition), and miscellaneous resources about technical management, see [`reading`](https://github.com/athowes/reading).
