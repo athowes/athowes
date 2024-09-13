@@ -4,11 +4,11 @@ Previously, I completed my PhD in [statistics and machine learning](https://stat
 For more information, and my blog, see [athowes.github.io](https://athowes.github.io/).
 To give an idea about my work, see:
 
-| Repository | Description |
-|:-----|:----|
-| [`epidist`](https://github.com/epinowcast/epidist) | An R package for estimating the time between events with interval censoring and right truncation |    
-| [`helios`](https://mrc-ide.github.io/helios) | An R package for simulating the impact of far UVC interventions using an individual-based model |
-| [`thesis`](https://github.com/athowes/thesis) | My thesis, "Bayesian spatio-temporal methods for small-area estimation of HIV indicators", supervised by [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) (Oxford, CS) and [Jeff Eaton](https://ccdd.hsph.harvard.edu/people/jeff-eaton/) (Imperial, DIDE; Harvard, CCDD) |
+| Repository &emsp;| Description |
+|:-----------|:------------|
+| [`epidist`](https://github.com/epinowcast/epidist) | An R package for estimating delay distributions accounting for censoring and truncation |    
+| [`helios`](https://github.com/mrc-ide/helios) | An R package for simulating the impact of far UVC interventions using an individual-based model |
+| [`thesis`](https://github.com/athowes/thesis) | My thesis, "Bayesian spatio-temporal methods for small-area estimation of HIV indicators" |
 | [`beyond-borders`](https://github.com/athowes/beyond-borders) | Evaluating the suitability of spatial adjacency for small-area estimation ([`arealutils`](https://github.com/athowes/arealutils))
 | [`multi-agyw`](https://github.com/athowes/multi-agyw) | Estimating HIV risk group proportions with a multinomial spatio-temporal model ([`multi.utils`](https://github.com/athowes/multi.utils), [UNAIDS](https://hivtools.unaids.org/pse/](https://hivtools.unaids.org/shipp/)))
 | [`naomi-aghq`](https://github.com/athowes/naomi-aghq) | Improving approximate Bayesian inference methods for extended latent Gaussian models ([`inf.utils`](https://github.com/athowes/inf.utils))
@@ -18,5 +18,5 @@ To give an idea about my work, see:
 Any suggestions, let me know!
 I predominantly program in R.
 Over time, I'd like to become multilinual by [learning Python](https://github.com/athowes/tutorial?tab=readme-ov-file#learning-python-as-an-r-user) (and maybe Julia?): advice welcome.
-* I'm currently reading: [Trees, maps, and theorems](https://www.principiae.be/X0100.php), [The Effective Manager](https://www.manager-tools.com/products/effective-manager-book-second-edition), and miscellaneous resources about technical management, see [`reading`](https://github.com/athowes/reading).
+* I'm currently reading: [The Effective Manager](https://www.manager-tools.com/products/effective-manager-book-second-edition) and resources about technical management, see [`reading`](https://github.com/athowes/reading).
 * You may be interested in these [`resources`](https://github.com/athowes/resources) I've found useful, or what I'm learning about via [`tutorial`](https://github.com/athowes/tutorial).
