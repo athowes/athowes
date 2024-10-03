@@ -6,6 +6,7 @@ To give an idea about my work, see:
 
 | Repository &emsp;| Description |
 |:-----------|:------------|
+| [`cfa-parameter-estimates`](https://github.com/cdcent/cfa-parameter-estimates) | Delay distribution estimates for COVID-19, influenza, and RSV (used in CFA projects: currently private) |    
 | [`epidist`](https://github.com/epinowcast/epidist) | An R package for estimating delay distributions accounting for censoring and truncation |    
 | [`helios`](https://github.com/mrc-ide/helios) | An R package for simulating the impact of far UVC interventions using an individual-based model |
 | [`thesis`](https://github.com/athowes/thesis) | My thesis "Bayesian spatio-temporal methods for small-area estimation of HIV indicators" |
