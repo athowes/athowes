@@ -18,5 +18,5 @@ To give an idea about my work, see:
 Any suggestions, let me know!
 I predominantly program in R.
 Over time, I'd like to become multilinual by [learning Python](https://github.com/athowes/tutorial?tab=readme-ov-file#learning-python-as-an-r-user) (and maybe Julia?): advice welcome.
-* I'm currently reading: [The Effective Manager](https://www.manager-tools.com/products/effective-manager-book-second-edition) and resources about technical management, see [`reading`](https://github.com/athowes/reading).
+* I'm currently reading: [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/), see [`reading`](https://github.com/athowes/reading).
 * You may be interested in these [`resources`](https://github.com/athowes/resources) I've found useful, or what I'm learning about via [`tutorial`](https://github.com/athowes/tutorial).
