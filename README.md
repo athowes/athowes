@@ -3,7 +3,10 @@ I'm Adam, a Bayesian statistician primarily working with the [Center for Forecas
 Previously, I completed my PhD in [statistics and machine learning](https://statml.io/) at Imperial College London.
 For more information, and my blog, see [athowes.github.io](https://athowes.github.io/).
 
-<details><To give an idea about my work, see:>
+<details>
+<summary>
+To give an idea about my work, see:
+</summary>
 
 | Repository &emsp;| Description |
 |:-----------|:------------|  
