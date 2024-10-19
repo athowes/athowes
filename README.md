@@ -1,8 +1,8 @@
 Hi!
 I'm Adam, a Bayesian statistician primarily working with the [Center for Forecasting and Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html) at the [CDC](https://www.cdc.gov/index.htm).
-Previously, I completed my PhD in [statistics and machine learning](https://statml.io/) at Imperial College London.
-For more information, and my blog, see [athowes.github.io](https://athowes.github.io/).
 
+* Previously, I completed my PhD in [statistics and machine learning](https://statml.io/) at Imperial College London.
+* You can learn more about me at my website [athowes.github.io](https://athowes.github.io/).
 * I'm always looking to improve at writing clear, concise, efficient, reproducible code.
 Any suggestions, let me know!
 I predominantly program in R.
