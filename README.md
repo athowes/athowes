@@ -2,11 +2,11 @@ Hi!
 I'm Adam, a Bayesian statistician primarily working with the [Center for Forecasting and Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html) at the [CDC](https://www.cdc.gov/index.htm).
 
 * Previously, I completed [my PhD](https://github.com/athowes/thesis) in [statistics and machine learning](https://statml.io/) at Imperial College London.
-* You can learn more about me at my [website](https://athowes.github.io/).
 * I'm always looking to improve at writing good code, and welcome suggestions.
 I predominantly program in R, and over time would like to become multilinual by [learning Python](https://github.com/athowes/tutorial?tab=readme-ov-file#learning-python-as-an-r-user) or perhaps Julia.
 * I'm currently reading: [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/), see [`reading`](https://github.com/athowes/reading).
 * You may be interested in these [`resources`](https://github.com/athowes/resources) I've found useful, or what I'm learning about via [`tutorial`](https://github.com/athowes/tutorial).
+* You can learn more about me at my [website](https://athowes.github.io/).
 
 <details>
 <summary>
