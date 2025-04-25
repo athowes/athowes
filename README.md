@@ -1,7 +1,7 @@
 Hi!
 I'm Adam, a Bayesian statistician and nascent data scientist.
 
-* 👨‍💻 Currently I work with the [Center for Forecasting and Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html) at the [CDC](https://www.cdc.gov/index.htm)
+* 👨‍💻 I currently work with the [Center for Forecasting and Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html) at the [CDC](https://www.cdc.gov/index.htm)
 * 🎓 Previously I completed [my PhD](https://github.com/athowes/thesis) in [statistics and machine learning](https://statml.io/) at Imperial College London
 * 📚 You may be interested in these [`resources`](https://github.com/athowes/resources) I've found useful, or what I'm learning about via [`tutorial`](https://github.com/athowes/tutorial) and [`reading`](https://github.com/athowes/reading)
 * 🌐 You can learn more about me at my [website](https://athowes.github.io/)
