@@ -1,5 +1,5 @@
 Hi!
-I'm Adam, a Bayesian statistician (and nascent data scientist).
+I'm Adam, a Bayesian statistician and nascent data scientist.
 
 * 👨‍💻 Currently I work with the [Center for Forecasting and Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html) at the [CDC](https://www.cdc.gov/index.htm)
 * 🎓 Previously I completed [my PhD](https://github.com/athowes/thesis) in [statistics and machine learning](https://statml.io/) at Imperial College London
