@@ -1,7 +1,7 @@
 Hi!
 I'm Adam, a Bayesian statistician and data scientist.
 
-* Currently I work with [CFA](https://www.cdc.gov/forecast-outbreak-analytics/index.html) on epidemic forecasting and [Active Site](https://activesite.bio/) on AI biosecurity evaluations
+* Currently I work with [CFA](https://www.cdc.gov/forecast-outbreak-analytics/index.html) on epidemic forecasting, [Active Site](https://activesite.bio/) on AI biosecurity evaluations, and [PETAL](https://whittakerlab.com/) on indoor air quality
 * Previously I completed a [PhD](https://github.com/athowes/thesis) in statistics and machine learning at Imperial College London
 * You can learn more about me at my [website](https://athowes.github.io/)
 
